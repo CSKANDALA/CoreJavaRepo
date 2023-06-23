@@ -32,6 +32,6 @@ public class DuplicateElement {
 		int a[] = { 4, 2, 4, 5, 2, 3, 1 };
 		printDuplicateElements(a);
 		removeDuplicateElements(a);
-
+  System.out.println("added from mobile");
 	}
 }
